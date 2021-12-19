@@ -8,6 +8,7 @@ var reverseString = function(s) {
     }
 };
 
+// helper function: swapping the letters in an array
 function swap(s,i,j){
     let temp = ""
     temp = s[i]
